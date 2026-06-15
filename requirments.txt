@@ -1,0 +1,8 @@
+ffmpeg-python
+pytubefix
+moviepy
+pillow
+pytesseract
+pydub
+SpeechRecognition
+sqlalchemy
